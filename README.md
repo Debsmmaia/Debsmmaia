@@ -18,9 +18,8 @@ Desenvolvedora Frontend Júnior | Vue.js | TypeScript | JavaScript
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
----
 
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
-LinkedIn: www.linkedin.com/in/deborah-maia-frontend
-Email: deborahmaia48@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/deborah-maia-frontend  
+📧 Email: deborahmaia48@gmail.com
