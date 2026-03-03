@@ -2,11 +2,11 @@
 
 Desenvolvedora Frontend Júnior focada na construção de aplicações web modernas e bem estruturadas.
 
-🚀 Meu objetivo é desenvolver interfaces intuitivas, escaláveis e centradas na experiência do usuário!
+🎯 Meu objetivo é desenvolver interfaces intuitivas, escaláveis e centradas na experiência do usuário!
 
 ---
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
