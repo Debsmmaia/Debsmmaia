@@ -1,6 +1,8 @@
 # 👩‍💻 Deborah Maia
 
-Desenvolvedora Frontend Júnior | Vue.js | TypeScript | JavaScript
+Desenvolvedora Frontend Júnior focada na construção de aplicações web modernas e bem estruturadas.
+
+🚀 Meu objetivo é desenvolver interfaces intuitivas, escaláveis e centradas na experiência do usuário!
 
 ---
 
