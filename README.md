@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Deborah Maia
+# 👩🏼‍💻 Deborah Maia
 
 Analista de Dados com base em desenvolvimento de software, 
 atuando com Python, SQL e PostgreSQL para análise, tratamento 
